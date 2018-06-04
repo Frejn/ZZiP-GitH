@@ -1,1 +1,2 @@
-﻿Jest "pusty"
+﻿Już nie jest
+!(Jest "pusty")
